@@ -8,3 +8,4 @@ def home():
         'msg':"Hello from Parakh-AI"
     }
 
+
