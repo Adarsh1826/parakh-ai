@@ -622,6 +622,7 @@ dependencies = [
     { name = "gtts" },
     { name = "mutagen" },
     { name = "ruff" },
+    { name = "websockets" },
 ]
 
 [package.metadata]
@@ -630,6 +631,7 @@ requires-dist = [
     { name = "gtts", specifier = ">=2.5.4" },
     { name = "mutagen", specifier = ">=1.48.1" },
     { name = "ruff", specifier = ">=0.16.6" },
+    { name = "websockets", specifier = ">=17.1" },
 ]
 
 [[package]]
