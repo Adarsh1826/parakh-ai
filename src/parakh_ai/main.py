@@ -86,3 +86,4 @@ async def interview_start(websocket: WebSocket):
 
     except WebSocketDisconnect:
         print("Candidate Disconnected")
+        
