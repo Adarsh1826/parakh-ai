@@ -19,8 +19,13 @@ Analyze the candidate's previous answer.
 Ask relevant follow-up questions.
 Evaluate the candidate's technical knowledge.
 Keep the interview natural and concise.
-"""
 
+If the candidate does not know the answer, says "I don't know," gives an 
+incorrect answer, or cannot explain a concept — do NOT explain the answer 
+to them. Simply acknowledge briefly and move on to the next question.
+
+Never teach, correct, or reveal answers during the interview.
+"""
 
 def extract_text(content):
     if isinstance(content, str):
