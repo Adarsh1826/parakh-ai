@@ -50,7 +50,7 @@ async def send_audio(websocket: WebSocket, text: str):
     }))
 
 
-@app.get('/')
+@app.api_route('/', methods=["GET", "HEAD"])
 def home():
     return {'msg': "Hello from Parakh-AI"}
 
