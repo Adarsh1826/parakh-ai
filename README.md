@@ -28,7 +28,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - 🗣️ **Fully conversational** — no file or resume upload required, just chat.
 - 🧠 **Adaptive questions** — generated live from your stated tech stack and project, not a fixed question bank.
@@ -37,15 +37,15 @@
 - 📋 **Optional final feedback** — ask for a summary evaluation only at the end, if you want one.
 - 🔌 **Model-agnostic prompt** — built to run on top of any LLM chat interface or API (e.g., Claude).
 
-## 🎥 Demo
+## Demo
 
-<p align="center">
-  <img src="./assets/demo-screenshot.png" alt="Mock interview session demo" width="80%" />
-</p>
+<!-- <p align="center">
+  <img src="/docs/assets/demo-screenshot.png" alt="Mock interview session demo" width="80%" />
+</p> -->
 
 > The assistant asks a question, and whether you answer, skip, or say "I don't know," it responds neutrally and moves to the next question — no correctness feedback until you explicitly ask for a wrap-up summary.
 
-## 🧩 How It Works
+## How It Works
 
 ```
  1. Assistant asks about your tech stack + a recent project
@@ -65,7 +65,7 @@
 
 See [`PROMPT_DESIGN.md`](./PROMPT_DESIGN.md) for the full system prompt and the reasoning behind each rule.
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Clone the repo**
    ```bash
@@ -85,7 +85,7 @@ See [`PROMPT_DESIGN.md`](./PROMPT_DESIGN.md) for the full system prompt and the 
 5. **Get feedback (optional)**
    At the end, ask something like *"How did I do?"* to get a summary evaluation.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -101,7 +101,7 @@ See [`PROMPT_DESIGN.md`](./PROMPT_DESIGN.md) for the full system prompt and the 
 └── README.md
 ```
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Structured scoring rubric for final feedback
 - [ ] Difficulty levels (junior / mid / senior)
@@ -111,7 +111,7 @@ See [`PROMPT_DESIGN.md`](./PROMPT_DESIGN.md) for the full system prompt and the 
 
 See open [issues](../../issues) for the current backlog.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before opening a PR — especially the section on preserving core interview behaviors (no resume upload, no mid-interview correctness feedback).
 
@@ -120,7 +120,7 @@ Contributions are welcome! Please read [`CONTRIBUTING.md`](./CONTRIBUTING.md) be
 3. Commit your changes
 4. Push and open a PR
 
-## 📄 License
+## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
