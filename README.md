@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="status" />
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="license" />
   <img src="https://img.shields.io/badge/PRs-welcome-orange" alt="PRs welcome" />
-  <img src="https://img.shields.io/badge/made%20with-Claude-8A2BE2" alt="made with Claude" />
+  
 </p>
 
 <p align="center">
